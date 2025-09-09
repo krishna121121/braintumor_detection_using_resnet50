@@ -1,6 +1,6 @@
-Disclaimer: The following README is a template based on the previous interaction. You must edit it to include your specific details, such as the exact project name, your GitHub username, the specific libraries and versions you used, your model's actual performance metrics, and any unique features of your project.
 
-Brain Tumor Detection using Machine Learning
+
+**Brain Tumor Detection using Machine Learning**
 A deep learning model for the classification of brain MRI scans. This project aims to demonstrate the application of machine learning in medical imaging by accurately classifying MRI scans as either containing a tumor or being tumor-free.
 
 🧐 Overview
